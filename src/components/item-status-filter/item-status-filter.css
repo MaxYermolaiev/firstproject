@@ -1,0 +1,10 @@
+.SearchPanel{
+    width: auto;
+    margin-right: 3px;
+    display:flex;
+    border:none;
+}
+.SearchPanel .inputPanel{  flex-grow: 5;}
+.form-control .allDone {  margin-left: 10px;flex-grow: 1;font-size:0.8rem}
+.form-control .allActive{  margin-left: 5px;flex-grow: 1;font-size:0.8rem}
+.form-control .allSelect{  margin-left: 5px;flex-grow: 1;font-size:0.8rem}

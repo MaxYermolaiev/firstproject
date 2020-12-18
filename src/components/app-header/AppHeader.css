@@ -1,0 +1,19 @@
+
+.AppHeader {
+    align-items: flex-end;
+    display:flex;
+}
+
+.AppHeader .HeadertTask {
+    flex-grow: 1;
+    text-shadow: 1px 1px 1px #eea30f;
+    color: #eea30f;
+    font-size: 1.4rem;
+}
+
+.AppHeader .sideInfo  {
+    font-size: 0.9rem;
+    color: grey;
+    flex-basis: content;
+    margin-left: 10px;
+}
